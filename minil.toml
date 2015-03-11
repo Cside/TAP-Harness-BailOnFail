@@ -1,0 +1,6 @@
+name = "TAP-Harness-BailOnFail"
+# badges = ["travis"]
+authority="cpan:CSIDE"
+
+module_maker="ModuleBuildTiny"
+
